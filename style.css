@@ -103,14 +103,14 @@ aside li i {
 }
 
 .bottom-left-corner {
-  left: -50px;
-  bottom: -50px;
+  left: -30px;
+  bottom: -40px;
   rotate: -90deg;
 }
 
 .top-right-corner {
-  right: -50px;
-  top: -50px;
+  right: -30px;
+  top: -40px;
   rotate: 90deg;
 }
 
@@ -178,6 +178,18 @@ aside li i {
   background-color: #f26705;
   color: white;
   border-radius: 5px;
+  
+}
+.resume-btn {
+  padding: 10px 20px;
+  background-color: #f26705;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.resume-btn:hover {
+  color: rgb(34, 235, 34);
 }
 
 .slide-help {
